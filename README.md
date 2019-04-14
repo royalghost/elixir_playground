@@ -1,6 +1,7 @@
 # Elixir Playground
 
 ## Environment Setup
+Follow this official guide - https://elixir-lang.org/install.html
 
 ## Hello World
 
@@ -17,8 +18,12 @@ end
 ```
 
 Go to terminal and type
-`iex helloworld.ex`
+```
+iex helloworld.ex
+```
 
 
 Execute the function
-`iex HelloWorld.hello`
+```
+iex HelloWorld.hello
+```
